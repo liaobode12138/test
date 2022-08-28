@@ -30,7 +30,6 @@ jobs:
       - name: 'Install requests'
         run: pip install zhdate
              pip install requests
-             pip install time
              pip install datetime
         # 运行脚本
       - name: 'Working'
